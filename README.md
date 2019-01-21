@@ -6,7 +6,7 @@ In this project, TMDb movie data set was analysed. The data set consists of info
 
 ### Methodology
 
-This project was conducted in Jupyter Notebook. Libraries installed for carrying out the project were
+This project was conducted in Python 3 in Jupyter Notebook. Libraries installed for carrying out the project were
 numpy, pandas, matplotlib
 
 #### Questions which had been answered from this data set were:
