@@ -7,9 +7,9 @@
 ### Methodology
 
 #### This project was conducted in Jupyter Notebook. Libraries installed for carrying out the project were
-######i. numpy
-######ii. pandas
-######iii. matplotlib
+#### i. numpy
+#### ii. pandas
+#### iii. matplotlib
 
 #### Questions which have been answered from this data set are:
 > 1. Which movies earned the highest and lowest profit?
@@ -26,5 +26,5 @@ It was found that the popularity of a movie has a strong correlation with revenu
 Although some important informations were retrieved from the data set, it has some limitations.
 
 ### Limitations
-####1. The budget and revenue supplied in the data set have no information about the currency. It was assumed that they are in US Dollar. However, the data might change if the currencies are different. 
-####2. The 0 values and NaN values were discarded from the data set. It had reduced the number of data present in the data set significantly, which might had effected the statistical analysis.
+#### 1. The budget and revenue supplied in the data set have no information about the currency. It was assumed that they are in US Dollar. However, the data might change if the currencies are different. 
+#### 2. The 0 values and NaN values were discarded from the data set. It had reduced the number of data present in the data set significantly, which might had effected the statistical analysis.
