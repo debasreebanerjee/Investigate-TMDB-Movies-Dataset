@@ -9,7 +9,7 @@ In this project, TMDb movie data set was analysed. The data set consists of info
 This project was conducted in Jupyter Notebook. Libraries installed for carrying out the project were
 numpy, pandas, matplotlib
 
-#### Questions which have been answered from this data set are:
+#### Questions which had been answered from this data set were:
 1. Which movies earned the highest and lowest profit?
 2. Which movies had the highest and lowest budget?
 3. Which movies had earned the maximum and minimum revenue?
