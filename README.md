@@ -2,14 +2,12 @@
 
 ### Introduction
 
-#### In this project, TMDb movie data set was analysed. The data set consists of information about 10,000 movies from 1966 to 2015 which includes budget, vote_count, revenue earned, runtime etc.
+In this project, TMDb movie data set was analysed. The data set consists of information about 10,000 movies from 1966 to 2015 which includes budget, vote_count, revenue earned, runtime etc.
 
 ### Methodology
 
-#### This project was conducted in Jupyter Notebook. Libraries installed for carrying out the project were
-i. numpy
-ii. pandas
-iii. matplotlib
+This project was conducted in Jupyter Notebook. Libraries installed for carrying out the project were
+numpy, pandas, matplotlib
 
 #### Questions which have been answered from this data set are:
 1. Which movies earned the highest and lowest profit?
