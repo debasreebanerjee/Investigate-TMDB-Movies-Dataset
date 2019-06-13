@@ -20,7 +20,7 @@ numpy, pandas, matplotlib
 8. Who were the most frequent actors?
 
 #### Key Findings
-It was found that the popularity of a movie has a strong correlation with revenue earned and profit and moderate correlation with budget. The Revenue earned has a strong correlation with popularity, budget and profit. It was also depicted from the analysis that amongst the genres, Drama had been released the maximum number of times and Robert De Niro was the mostly casted actor.
+It was found that the popularity of a movie has a strong correlation with revenue earned and profit has moderate correlation with budget. The Revenue earned has a strong correlation with popularity, budget and profit. It was also depicted from the analysis that amongst the genres, Drama had been released the maximum number of times and Robert De Niro was the mostly casted actor.
 Although some important informations were retrieved from the data set, it has some limitations.
 
 ### Limitations
